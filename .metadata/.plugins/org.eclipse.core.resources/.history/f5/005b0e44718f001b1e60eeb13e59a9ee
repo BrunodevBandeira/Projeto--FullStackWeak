@@ -1,0 +1,16 @@
+package br.com.projeto.fullstackweak.domain;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Pessoa {
+	
+	private Long codigo;
+	private String nome;
+	private String cpf;
+	private String telefone;
+	private String email;
+	private String idade;
+	private String dataNascimento;
+	
+}

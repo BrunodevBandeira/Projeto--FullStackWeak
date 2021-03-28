@@ -1,0 +1,8 @@
+package br.com.projeto.fullstackweak.domain;
+
+import javax.persistence.Entity;
+
+@Entity
+public class GruposPrioridades {
+
+}
